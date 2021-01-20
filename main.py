@@ -1,5 +1,4 @@
-# Coded by Sezer Yavuzer Bozkır <admin@sezerbozkir.com>
-# Date: 19.04.2017
+
 
 """
 inputs:
